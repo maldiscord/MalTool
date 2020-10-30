@@ -1,0 +1,2 @@
+targetfolder=C:\Users\Administrator\Desktop\ClientOutput
+defaultclient=C:\Users\Administrator\Desktop\DefaultClient

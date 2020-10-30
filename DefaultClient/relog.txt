@@ -1,0 +1,21 @@
+connect server1 1
+wait 50
+send /joinq event-magenta
+
+connect server1 2
+wait 50
+send /server factions
+wait 50
+send /msg USERNAME ALT
+wait 50
+send /f join USERNAME
+wait 50
+
+connect server1 3
+wait 50
+send /server factions
+wait 50
+send /msg USERNAME ALT
+wait 50
+send /f join USERNAME
+wait 50

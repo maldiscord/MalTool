@@ -1,0 +1,7 @@
+wait 20
+send /joinq event-magenta
+wait 20
+respawn
+wait 50
+send /joinq event-magenta
+wait 50
